@@ -20,3 +20,7 @@ Some examples of their use with concatenation for console representation.
 
 ## String Methods
 - Testing multiple methods on string values.
+
+## Type Casting
+- Casting different data types to other data types to see their use of casting when concatenation on strings.
+
