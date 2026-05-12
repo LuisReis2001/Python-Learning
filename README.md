@@ -6,3 +6,12 @@ Starting on a Beginner phase where i learn from basic syntax language to develop
 ## Hello World
 - First Program developed using the console to explore the use of print function.
 
+## Variables
+- Representation of the Python types:
+  - String str
+  - Integer int
+  - Float float
+  - Boolean bool
+
+Some examples of their use with concatenation for console representation.
+
