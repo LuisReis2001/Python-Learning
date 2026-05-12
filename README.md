@@ -24,3 +24,6 @@ Some examples of their use with concatenation for console representation.
 ## Type Casting
 - Casting different data types to other data types to see their use of casting when concatenation on strings.
 
+## User Input
+- Method used to read the input from the console inserted by the user and using that input for multiple things.
+
