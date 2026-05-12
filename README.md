@@ -18,3 +18,5 @@ Some examples of their use with concatenation for console representation.
 ## Multiple Assignment
 - Representation of assignment of multiple values in one line of code with the same and different type.
 
+## String Methods
+- Testing multiple methods on string values.
