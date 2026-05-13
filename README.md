@@ -47,3 +47,6 @@ Some examples of their use with concatenation for console representation.
 ## While Loop
 - Use of the while loop.
 
+## For Loop
+- Use of the For Loop.
+
