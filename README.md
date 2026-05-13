@@ -50,3 +50,6 @@ Some examples of their use with concatenation for console representation.
 ## For Loop
 - Use of the For Loop.
 
+## Nested Loop
+- Use of the For Loop in a Nested Loop case.
+
