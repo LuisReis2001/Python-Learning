@@ -35,3 +35,6 @@ Some examples of their use with concatenation for console representation.
   - Slice() -> Prepare the method to be used with start, stop, step and then name[slice]
   - Indexing[start:stop:step]
 
+## If Statements
+- Use of the if statement, with elif and else.
+
