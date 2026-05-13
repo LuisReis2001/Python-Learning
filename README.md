@@ -38,3 +38,9 @@ Some examples of their use with concatenation for console representation.
 ## If Statements
 - Use of the if statement, with elif and else.
 
+## Logical Operators
+- Use of the logical operators:
+  - And
+  - Or
+  - Not
+
