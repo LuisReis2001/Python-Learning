@@ -53,3 +53,9 @@ Some examples of their use with concatenation for console representation.
 ## Nested Loop
 - Use of the For Loop in a Nested Loop case.
 
+## Break Continue Pass
+- Use of control statements for loops:
+  - Break
+  - Continue
+  - Pass
+
