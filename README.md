@@ -59,3 +59,6 @@ Some examples of their use with concatenation for console representation.
   - Continue
   - Pass
 
+## Lists
+- Use of the list values and methods of the lists.
+
