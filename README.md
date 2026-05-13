@@ -44,3 +44,6 @@ Some examples of their use with concatenation for console representation.
   - Or
   - Not
 
+## While Loop
+- Use of the while loop.
+
