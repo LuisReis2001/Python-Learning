@@ -30,3 +30,8 @@ Some examples of their use with concatenation for console representation.
 ## Math Functions
 - Testing multiple methods on math values.
 
+## String Slicing
+- Using two different ways to slice a string:
+  - Slice() -> Prepare the method to be used with start, stop, step and then name[slice]
+  - Indexing[start:stop:step]
+
