@@ -27,3 +27,6 @@ Some examples of their use with concatenation for console representation.
 ## User Input
 - Method used to read the input from the console inserted by the user and using that input for multiple things.
 
+## Math Functions
+- Testing multiple methods on math values.
+
