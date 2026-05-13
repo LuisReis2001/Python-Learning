@@ -62,3 +62,6 @@ Some examples of their use with concatenation for console representation.
 ## Lists
 - Use of the list values and methods of the lists.
 
+## 2D Lists
+- List of a list of values, nested lists. Access those values and lists.
+
