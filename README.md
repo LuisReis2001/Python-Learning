@@ -69,3 +69,6 @@ Some examples of their use with concatenation for console representation.
 - Use of the data collection tuples.
 - Can't be changed.
 
+## Sets
+- Use of sets for data collection. Cannot have duplicates, is unordered and unindexed.
+
