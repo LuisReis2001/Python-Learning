@@ -92,3 +92,11 @@ Some examples of their use with concatenation for console representation.
 ## Nested Function Calls
 - Use of functions calling other functions.
 
+## Variable Scope
+- Explaination of scopes of variables.
+- LEGB:
+  - Local Variables first
+  - Enclosing Variables second
+  - Global Variables Third
+  - Built-in Variables Fourth
+
