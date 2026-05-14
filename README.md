@@ -72,3 +72,8 @@ Some examples of their use with concatenation for console representation.
 ## Sets
 - Use of sets for data collection. Cannot have duplicates, is unordered and unindexed.
 
+## Dictionary
+- Use of a pair of Key:Value to store data.
+- Mutable, unordered and changeable.
+- Use of methods for dictionaries.
+
