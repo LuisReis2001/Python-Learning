@@ -80,3 +80,6 @@ Some examples of their use with concatenation for console representation.
 ## Indexing
 - Use of the index operator on strings, sets and tuples.
 
+## Functions
+- Use of functions and how to call it, with/without arguments.
+
