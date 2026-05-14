@@ -83,3 +83,6 @@ Some examples of their use with concatenation for console representation.
 ## Functions
 - Use of functions and how to call it, with/without arguments.
 
+## Return Statement
+- Use of the return statement in functions.
+
