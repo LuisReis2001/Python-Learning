@@ -93,7 +93,7 @@ Some examples of their use with concatenation for console representation.
 - Use of functions calling other functions.
 
 ## Variable Scope
-- Explaination of scopes of variables.
+- Explanation of scopes of variables.
 - LEGB:
   - Local Variables first
   - Enclosing Variables second
