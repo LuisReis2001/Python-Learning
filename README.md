@@ -77,3 +77,6 @@ Some examples of their use with concatenation for console representation.
 - Mutable, unordered and changeable.
 - Use of methods for dictionaries.
 
+## Indexing
+- Use of the index operator on strings, sets and tuples.
+
