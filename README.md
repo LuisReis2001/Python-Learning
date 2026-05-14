@@ -65,3 +65,7 @@ Some examples of their use with concatenation for console representation.
 ## 2D Lists
 - List of a list of values, nested lists. Access those values and lists.
 
+## Tuples
+- Use of the data collection tuples.
+- Can't be changed.
+
