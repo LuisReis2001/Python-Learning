@@ -86,3 +86,6 @@ Some examples of their use with concatenation for console representation.
 ## Return Statement
 - Use of the return statement in functions.
 
+## Keyword Arguments
+- Use of keyword arguments to call a function with arguments.
+
