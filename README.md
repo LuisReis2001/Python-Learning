@@ -89,3 +89,6 @@ Some examples of their use with concatenation for console representation.
 ## Keyword Arguments
 - Use of keyword arguments to call a function with arguments.
 
+## Nested Function Calls
+- Use of functions calling other functions.
+
